@@ -1,0 +1,7 @@
+ng serve
+
+git commit -a -m ""
+
+git push origin develop
+
+ng g c nameComponent
